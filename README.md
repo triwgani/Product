@@ -13,7 +13,7 @@ Period: January 2021 - May 2021
 
 ## MVP (Minimum Viable Product)
 
-E-Boarding Pass or Electronic Boarding Pass in Pegi-Pegi App that enables passengers to self board. It is aimed to:
+Proposing an E-Boarding Pass or Electronic Boarding Pass in Pegi-Pegi App that enables passengers to self board. It is aimed to:
 - Being Eco-Friendly (reducing paper, electricity and equipment use)
 - Improving satisfaction (comes in handy, no long queue, time saving, as easy as one click operation to get boarding pass)
 
