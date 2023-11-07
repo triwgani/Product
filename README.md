@@ -13,7 +13,7 @@ Period: January 2021 - May 2021
 
 ## Typical Deliveries
 
-![](TypicalDeliveries)
+![](TypicalDeliveries.png)
 
 ## MVP (Minimum Viable Product)
 
