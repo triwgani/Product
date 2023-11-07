@@ -11,6 +11,10 @@ Period: January 2021 - May 2021
 3. Building product roadmap with clearly defined MVP and timeline, assessing resources and solution with priority framework.
 4. Building PRD for Binar Academy B2B product and feature development of an OTA application with clear OKR, determining product’s metrics, and acceptance criteria, as well as other details such as features, user flow, epics and user stories.
 
+## Typical Deliveries
+
+![](TypicalDeliveries)
+
 ## MVP (Minimum Viable Product)
 
 Proposing an E-Boarding Pass or Electronic Boarding Pass in Pegi-Pegi App that enables passengers to self board. It is aimed to:
